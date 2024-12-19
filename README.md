@@ -31,11 +31,11 @@ Working :
 
 3. After the image has been uploaded click on "Show Image" to show the uploaded image.
 
-![Screenshot 2024-11-25 224844](https://github.com/user-attachments/assets/77d3c341-6bdc-4bf4-9aed-063b58230583)
+![sc1](https://github.com/user-attachments/assets/7ab5885d-953c-4f43-98a6-f2e1b94a3c81)
 
-4. Now click on "Predict" to get the Disease name.
+4. Now click on "Predict" to get the Disease name, its symptoms and the solutions to cure that disease.
 
-![2](https://github.com/user-attachments/assets/e0b55361-1ffe-4477-8317-91e31846f7c9)
+![sc2](https://github.com/user-attachments/assets/c1631ec4-1950-4b09-98ec-1bea7e7e78ea)
 
 License: 
 This project is licensed under the MIT License.
